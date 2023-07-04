@@ -1,0 +1,24 @@
+{
+	"name": "qr-code-generator",
+	"version": "1.0.0",
+	"description": "A simple project that generates a qr code based on data provided by the user. Learning Node.js",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Pan-be/qr-code-generator.git"
+	},
+	"author": "Pan.Be",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Pan-be/qr-code-generator/issues"
+	},
+	"homepage": "https://github.com/Pan-be/qr-code-generator#readme",
+	"dependencies": {
+		"inquirer": "^9.2.7",
+		"qr-image": "^3.2.0"
+	}
+}
